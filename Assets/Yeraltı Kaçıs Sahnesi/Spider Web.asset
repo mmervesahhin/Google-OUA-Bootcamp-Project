@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Spider Web
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -535506520, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 1238380572, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 1837775196, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -49908864, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -513733719, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -1339088159, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 1336626260, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 1764929647, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -1051052069, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 263519510, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -859235717, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 909004491, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: 855495108, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -1542971617, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  - {fileID: -1407861640, guid: c431f532c88b3c946894a1d4dc228693, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

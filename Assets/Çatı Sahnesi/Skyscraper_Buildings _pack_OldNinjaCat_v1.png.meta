@@ -1,0 +1,3106 @@
+fileFormatVersion: 2
+guid: ad477b8658c070b4d996fa9c454a7a8e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1202
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62702f371b8004eb976fa7c0a7a19a
+      internalID: 1065009691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1202
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ce0e9706c2da409411cb617f3e4cc
+      internalID: 40766105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1202
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6fe04a812c1f489330dfd775b8a5d
+      internalID: 996824733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1222
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f61c55caa5c547ac632f1c25dae2d
+      internalID: -772896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1222
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da732b3e960e5d24bb5a911da58e42cc
+      internalID: -2113943931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1202
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12947e09a4b22af4788c95085d586e58
+      internalID: -395127079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_6
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1202
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ad9afcd20b934e85f0e9c69fa612b
+      internalID: 1964112188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_7
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1202
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e6aa6a2d34d1c4a8d0a10990a30b17
+      internalID: 1342288024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_8
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1202
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f0b37309496f41843c5d0434e8440
+      internalID: -1832437842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_9
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1222
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177c03ad7cdcf740b91e99cc4149b9e
+      internalID: 1067867012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_10
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1222
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cde82915d202d439588c08d3be989c
+      internalID: 1915321841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_11
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1202
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f777f73975db14aa39eb195b67e038
+      internalID: 1604698015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d141e8408bb04d8164b158909f24a
+      internalID: 1030758651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d21edc59eb4b374da858399db2f83f4
+      internalID: 294113612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1202
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9e06f6562f4d45b5050677b2b8193
+      internalID: 374499336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c2e4d39479bbd4fa583e633ef90242
+      internalID: 478861928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba5d17e87355fe4db4508ee24cf2ab2
+      internalID: 1855654920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba20ce9820ee0847ab6b8d621f48d8f
+      internalID: -1417900750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b66d31453ce14a828d39bd09a8776
+      internalID: -1153827517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_19
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b0dc2fdfd91e4ebede49707b65f3e
+      internalID: -628415047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_20
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09146bea977a2e3468def68bd0ba69f1
+      internalID: -437301382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_21
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06693ae3174d04b498bea297014a24db
+      internalID: -1584232620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_22
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1202
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d17ed8b799cd3419f33ca3c116923c
+      internalID: 655468468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_23
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905883d453af144bb2daed26e6169bf
+      internalID: -5128033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_24
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4268eb780a80d4795d6480dfe6c6a8
+      internalID: -1831059823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_25
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1202
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a87378a56dcf5446af06c4b51f087c1
+      internalID: -1973078017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_26
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0a51b9c4a0054d888faae5f8ff1a0
+      internalID: -403184999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_27
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c72fe09bc4dc4a4c991731daab52d53
+      internalID: 1938465920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1128
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d8cf7348419f843a053901a97a3154
+      internalID: 1161140511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1123
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf61eaa95f2f4944b1c47707271f7e7
+      internalID: -1749276319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d15a289521b7b046ab4e6a42118b04a
+      internalID: -280432178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c87c8e6df14db43b3a978140376c5b
+      internalID: -1912969367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1128
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16d770b96248124e93a023d8d6ff23e
+      internalID: -77866175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c982022c654a4cba091721c700dfa
+      internalID: -1935996065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1123
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b0d49c56dd9443af131187c12b0d3
+      internalID: 1124867076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e3a820e05be4f4b8bb9cdc5dee0222
+      internalID: 1707246866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0a19eda266ee43a60f6fa908d85d6
+      internalID: 1040867697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 851
+        width: 60
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b537a9454c3724ab2b8a95ed4e378b
+      internalID: 1239186152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 851
+        width: 52
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c6d9036ee32c46be42787072d3c44
+      internalID: 1690896574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 851
+        width: 69
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb085b75fcb7eea4c82775100e63c176
+      internalID: 1050824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_40
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 851
+        width: 50
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ffd7309135a1d4a9efc577cd0d8ae2
+      internalID: -775030243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 851
+        width: 51
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fdeb1f9080dd54bb1413d0aeb03f1c
+      internalID: -202182559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_42
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 851
+        width: 39
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12072229146e474885ceaa036b32d7f
+      internalID: 102175992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_43
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 851
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d58f58a296797441a2111bf84522fc7
+      internalID: 1384456370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_44
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 851
+        width: 39
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa79a44f611f18e4980544902fd7902b
+      internalID: -983025302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_45
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 851
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de7347f775d374e9606e3a01a72b01
+      internalID: -1370366994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_46
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 851
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36ea679d30c7d44856148bc44dde6f
+      internalID: 1474655638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_47
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 851
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79f54558049074494b0ee6e21ce130
+      internalID: 1104958243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_48
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 851
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72656693942964a83ec742e8e76411
+      internalID: -1380388058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_49
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 851
+        width: 51
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b14d78aebdb0a489a2675008695a53
+      internalID: -207069585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_50
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 851
+        width: 43
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da58b01c9af954c9982969e424fad6
+      internalID: -1127352529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_51
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 851
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242965e994ccff4439f26a1a387eae5f
+      internalID: -881842153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_52
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 851
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2cca8432b68b4e807e00879b5d3c6
+      internalID: -342470004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_53
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 851
+        width: 40
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df090316bd21d46ae09daf76f4ae41
+      internalID: -599206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_54
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 851
+        width: 49
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8688dd2218784cb064f54b2a6c1b7
+      internalID: -1349036859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_55
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 851
+        width: 94
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155c992a021cae24fa9ef6e577bab6d8
+      internalID: 940686409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_56
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 851
+        width: 61
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ada53b405d54843bc5d786c2e02045
+      internalID: -506777002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_57
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 851
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaac1652fa8f3c43870f255ad263970
+      internalID: -1773395629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 579
+        width: 60
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d254962e0b67642b8961bd6e29b701
+      internalID: 319206835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 579
+        width: 52
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0986ce7bcf69144803d89b095b228c
+      internalID: 1906365404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 579
+        width: 69
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506e9b8cc311324a92dab30b2d1885e
+      internalID: -1910022946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_61
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 579
+        width: 50
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899449b27c365844870f113c7078b57
+      internalID: -1334921481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 579
+        width: 51
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51caef723a6955740b76be2c9ce9fa62
+      internalID: -965001413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_63
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 579
+        width: 39
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581926a39032874d8cb1851bf2ca6c0
+      internalID: 333724801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_64
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 579
+        width: 30
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b29ec71adf7e7439beeafac3df703a
+      internalID: 1471505424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_65
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 579
+        width: 39
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced36fc85a1b85549a9ee1c548476023
+      internalID: -1450253768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_66
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 579
+        width: 34
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8c3b651cec888479a281891dac8b21
+      internalID: 124522316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 579
+        width: 46
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885cbf640659424d8c654aa3b9b25df
+      internalID: -39280573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_68
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 579
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9063ff026c7ffba4bb9f166723d6bbe6
+      internalID: -2093471346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_69
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 579
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f888014059204ab33dfd1644b0207
+      internalID: -1593882386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_70
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 579
+        width: 51
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e0c0fb5270824da92c6ac1f32c49b
+      internalID: -1368262149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_71
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 579
+        width: 43
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e08d096188a94b9346c76e838f164
+      internalID: -277861264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_72
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 579
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca7f9f4d358b24e9b5eafb0322090a
+      internalID: 568227516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_73
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 579
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b723be1bd58704d804309e70f2b241
+      internalID: -754997220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_74
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 579
+        width: 40
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e1184eadc00984cb33c39204254c2e
+      internalID: -1840611072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_75
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 579
+        width: 49
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba738f4390fac49923e464a5b90df3
+      internalID: -1519506950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_76
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 579
+        width: 94
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a01197d7fc31458e089f0ed58b129
+      internalID: -1338112821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_77
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 579
+        width: 61
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c82034163ae645b9a4dd5fdf83dd1
+      internalID: 344990583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_78
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 579
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e19bec966d1849b763674e46768e7
+      internalID: 1219811345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 494
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5fdc8bb79cbd408ffed6117af06d5
+      internalID: -2147391889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_80
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 489
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1435dbcc9acf804b9c69f7453abb9bf
+      internalID: -345852902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 494
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315b82473c4d1046a018ac2bc213fff
+      internalID: -886809096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_82
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de19ac3aea48e946a5773ba5a6771b5
+      internalID: 1829231765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1cdd5de5ddba44db84253b184b6b41
+      internalID: -1814683991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 494
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc693489116ead428b445e66acfb8a3
+      internalID: 81326605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 494
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ffbdbe807fcb41b6ba4ed0928c5ec
+      internalID: -2086843598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_86
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 494
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45afa6078588e8479cb8e01849d5ec4
+      internalID: -1915151382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_87
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 494
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1acab0a4d7d034497e0ba85498c04c
+      internalID: 472187596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_88
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 494
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d486e3a6d716140992bd0287ac95c3
+      internalID: 84694435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 494
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d25dcd176a3b649b2029896a1869b3
+      internalID: 1847251808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_90
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 494
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d7fee8dc5b8a47b9b30cf1efe06db
+      internalID: 1500157664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_91
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 494
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a3df794d94c14eb987630214697c8
+      internalID: 1766543689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_92
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b82605493f542458f1e79be131b437
+      internalID: 444447335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 494
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c7fa1b260d8a40838914d7c4c623c
+      internalID: 1423308603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_94
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 494
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6804f746756f949a7e255c20701507
+      internalID: -663646494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 489
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4942b4c71096d647a8d1071b83ac9bc
+      internalID: 1602450886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 494
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91c4eddd3e7de429fc49d5e697ab1b
+      internalID: -1567779918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_97
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 494
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcdedf8ad4f22f4e8d1cb5040f58209
+      internalID: 1329014232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_98
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 494
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d252e25bca35de41a6f45d5b6df81eb
+      internalID: 295014485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_99
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 494
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17695332db3ac6e448f56244e76e53dd
+      internalID: -1758082230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 494
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d222862a2ade3c4aaa8fb59f091caa5
+      internalID: 2135569283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 620
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b20c25757161c4eaf40b5397dd1afc
+      internalID: -1418204043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_102
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 392
+        width: 522
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd44218ec44bc438daa6c8bc123d41
+      internalID: -1555954706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_103
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 263
+        width: 600
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4174fa0db457f4d9f3daac1b1f4a2d
+      internalID: -852093390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_104
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 263
+        width: 546
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0060f02f5872e41a50bbb60f22c097
+      internalID: 1775799998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_105
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 65
+        width: 575
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89ab589800a9c40981ed6f5535de9f
+      internalID: -1268110582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_106
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7a8a5271213c44ac0de43a607441b
+      internalID: 1555778473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0e010f3f81494897101899679f9bc
+      internalID: -774536289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c34967b7c55ee428388ab295cb423f
+      internalID: -332748695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272084bcf2232749bfb67510ac0dec5
+      internalID: -47756030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7a3b6322d98e44ba511cbef07c9a01
+      internalID: -1390597402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_111
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d367b4c7b36945a8770ee890b5e30
+      internalID: -368683304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_112
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 6
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04d4dbbc5ffbf146ac7d7f707d2b3fb
+      internalID: 1074335248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_113
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 6
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19e24c63444bb40a05835833b7f427
+      internalID: -1296713222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_114
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 6
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bf3ad769c43e48920945040baf31f
+      internalID: -1580960498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_115
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b709a17e48afa945b54e624c47f7c30
+      internalID: 999383907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_116
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df03e8e103e724428ff122b1288596f
+      internalID: 465615159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_117
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 6
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d414b604fff5e41a0dfbc2c0c43d3f
+      internalID: -1872482516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e4213109ebfd47aee11dbfa0d659d
+      internalID: -1491560048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_119
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d0a3d640d85744abcb13b822c17fe
+      internalID: 1423801338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_120
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 6
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b7183dc2acd44f998c839d933f8c5
+      internalID: -1120938058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_121
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b79471c9bb1c45b345d8e35743bb6
+      internalID: -2146628646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2139f167a82e4a3409060ad877e9c9d4
+      internalID: 1796382663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb75f8b2c8fced439a5589af017ad8f
+      internalID: 1927102097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_124
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212192c6f1eb60c459eea13daa120bb3
+      internalID: -453361986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_125
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5cd376fac4f22448338cb4da88871f
+      internalID: -1457455421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_126
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f8f780f65936748a469f5a3a4e7cf9
+      internalID: -536220871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_127
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511af21c4b5ddc42a7e2257452a9e17
+      internalID: 1573193980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_128
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 6
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21277462da14b4e4f98ac058cdbc9113
+      internalID: 1685513576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_129
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b502d574d723588499203c76d1374277
+      internalID: -1788718438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_130
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c07fcc9631b2b4ebc86daaf926ca9f
+      internalID: -254157869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_131
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87db2b4cc2f3d40aca2b398e521ec7
+      internalID: -352868127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_132
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488c97f777e41034e8abdae3db0ea972
+      internalID: 364207080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skyscraper_Buildings _pack_OldNinjaCat_v1_133
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b113a5573fd0540875d153beb122ad
+      internalID: 1445485773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_51: -881842153
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_108: -332748695
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_73: -754997220
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_71: -277861264
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_23: -5128033
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_43: 1384456370
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_109: -47756030
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_58: 319206835
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_106: 1555778473
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_129: -1788718438
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_67: -39280573
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_77: 344990583
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_21: -1584232620
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_133: 1445485773
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_79: -2147391889
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_130: -254157869
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_66: 124522316
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_65: -1450253768
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_88: 84694435
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_34: 1124867076
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_118: -1491560048
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_7: 1342288024
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_15: 478861928
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_32: -77866175
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_69: -1593882386
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_48: -1380388058
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_45: -1370366994
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_59: 1906365404
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_3: -772896225
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_16: 1855654920
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_105: -1268110582
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_84: 81326605
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_103: -852093390
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_6: 1964112188
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_111: -368683304
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_83: -1814683991
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_40: -775030243
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_37: 1239186152
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_46: 1474655638
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_39: 1050824864
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_49: -207069585
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_31: -1912969367
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_42: 102175992
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_13: 294113612
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_87: 472187596
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_2: 996824733
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_41: -202182559
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_12: 1030758651
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_74: -1840611072
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_5: -395127079
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_99: -1758082230
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_113: -1296713222
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_76: -1338112821
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_56: -506777002
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_104: 1775799998
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_25: -1973078017
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_29: -1749276319
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_96: -1567779918
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_90: 1500157664
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_18: -1153827517
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_57: -1773395629
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_28: 1161140511
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_124: -453361986
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_89: 1847251808
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_122: 1796382663
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_24: -1831059823
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_128: 1685513576
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_62: -965001413
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_38: 1690896574
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_117: -1872482516
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_8: -1832437842
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_132: 364207080
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_101: -1418204043
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_98: 295014485
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_54: -1349036859
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_36: 1040867697
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_26: -403184999
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_14: 374499336
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_131: -352868127
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_100: 2135569283
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_64: 1471505424
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_92: 444447335
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_81: -886809096
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_19: -628415047
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_4: -2113943931
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_17: -1417900750
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_68: -2093471346
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_121: -2146628646
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_94: -663646494
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_78: 1219811345
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_30: -280432178
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_116: 465615159
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_1: 40766105
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_110: -1390597402
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_82: 1829231765
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_119: 1423801338
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_93: 1423308603
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_91: 1766543689
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_52: -342470004
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_61: -1334921481
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_114: -1580960498
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_126: -536220871
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_86: -1915151382
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_85: -2086843598
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_53: -599206192
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_107: -774536289
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_33: -1935996065
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_44: -983025302
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_27: 1938465920
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_70: -1368262149
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_102: -1555954706
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_97: 1329014232
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_11: 1604698015
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_115: 999383907
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_80: -345852902
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_20: -437301382
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_0: 1065009691
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_47: 1104958243
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_55: 940686409
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_120: -1120938058
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_95: 1602450886
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_50: -1127352529
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_72: 568227516
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_123: 1927102097
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_63: 333724801
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_22: 655468468
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_35: 1707246866
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_75: -1519506950
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_127: 1573193980
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_112: 1074335248
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_9: 1067867012
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_10: 1915321841
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_60: -1910022946
+      Skyscraper_Buildings _pack_OldNinjaCat_v1_125: -1457455421
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
