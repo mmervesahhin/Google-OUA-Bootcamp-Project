@@ -159,6 +159,8 @@ Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasar�
 ## Oyun Video Linki
 https://youtu.be/u8E6XC_p5-M
 
+## Google Drive İndirme Linki
+https://drive.google.com/file/d/1ehtMepkcCEs5T3lBTo1US_dc4dqoFx8j/view?usp=sharing
 
 
 
