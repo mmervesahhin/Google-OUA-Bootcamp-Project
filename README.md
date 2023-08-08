@@ -156,7 +156,8 @@ Alınan kararlar: Oyunun hikayesi ve dinamiği belirlenmiş; ana karakter tasar�
   - Haritalar tahmin ettiğimizden daha fazla zaman aldı. Bu da işleri son anda yetiştirmemize sebep oldu.
   - Bir dahaki projelerde aksi durumların çıkma ihtimaline karşı ek süre bırakmalıyız.
  
-    
+## Oyun Video Linki
+https://youtu.be/u8E6XC_p5-M
 
 
 
